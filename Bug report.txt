@@ -1,0 +1,35 @@
+Summary:	Authorization in the user's account is not possible through the social network "facebook"
+Issue Type:	 Bug
+Affects Versions:	1.1.1
+Assignee:	Unassigned
+Components:	ChangeSetViewManager, UX
+Created:	01/Aug/2020 12:01 PM
+Priority:	 Low
+Reporter:	Alex Mexef
+Symptom Severity:	Severity 1 - Critical
+Description:	
+Enviroment:  - Huawei Honor 7A Model AUM-L29
+
+                       - Android 8.0.0 
+
+                       - Screen Resolution 1440x720
+
+App:  Jeleznodorojnye bilety v1.11.3
+
+Valid facebook account
+
+Steps to reproduce:   1.  Open app "Jeleznodorojnye bilety"
+
+                                    2.  Click to menu in the upper left corner 
+
+                                    3. Click "My account"
+
+                                    4.  Select from the proposed authorization "SING IN WITH FACEBOOK"
+
+Expected result:  Login successfully.
+
+Actual result: Error - "Login Failed. You can`t use Facebook to log into this app or website because there`s an issue with it`s implementation of Facebook Login."
+
+Screenshot: 
+
+// https://drive.google.com/file/d/1lWwdm8lBIKBiQTgc0ZZxVfqvlWkWTgqm/view?usp=sharing
